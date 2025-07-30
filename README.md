@@ -12,7 +12,7 @@ Ideal for automated fire support, immersive scenarios, and advanced mission scri
 -  **Realistic ballistics** based on real-life data for the M73 mortar shell (Krušik)
 -  **ACE compatibility** with optional artillery table support
 -  Multiple shell types supported (HE, smoke, illumination – configurable)
-- 🛠 Easy mission integration with script-based fire commands
+-  Easy mission integration with script-based fire commands
 -  Built without dependency on `script_component.hpp` or macros
 
 ---
