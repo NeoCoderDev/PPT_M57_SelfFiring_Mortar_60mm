@@ -1,0 +1,3 @@
+call AS_M57_Mortar_fnc_addChargesChanges;
+call AS_M57_Mortar_fnc_addChargesChanges_Smoke;
+call AS_M57_Mortar_fnc_addChargesChanges_Svetleca;
