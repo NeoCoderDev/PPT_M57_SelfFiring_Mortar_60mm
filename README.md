@@ -1,4 +1,4 @@
-# AS_M57_AutoMortar
+# PPT M57 60mm Mortar - Self Firing
 
 **AS_M57_AutoMortar** is a standalone Arma 3 mod featuring the Serbian **M57 60mm mortar**, equipped with a fully scripted autonomous firing system.  
 This mod allows for mortar deployment and fire missions without the need for an AI gunner or player operator — perfect for automated fire support, cutscenes, or scripted scenarios.
