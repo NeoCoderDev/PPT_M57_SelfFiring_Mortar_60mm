@@ -8,12 +8,12 @@ Ideal for automated fire support, immersive scenarios, and advanced mission scri
 
 ### Key Features ### 
 
-- ✅ **Self-firing system** — no gunner required
-- 🎯 **Realistic ballistics** based on real-life data for the M73 mortar shell (Krušik)
-- 🧠 **ACE compatibility** with optional artillery table support
-- 💣 Multiple shell types supported (HE, smoke, illumination – configurable)
-- 🛠️ Easy mission integration with script-based fire commands
-- 🔄 Built without dependency on `script_component.hpp` or macros
+-  **Self-firing system** — no gunner required
+-  **Realistic ballistics** based on real-life data for the M73 mortar shell (Krušik)
+-  **ACE compatibility** with optional artillery table support
+-  Multiple shell types supported (HE, smoke, illumination – configurable)
+- 🛠 Easy mission integration with script-based fire commands
+-  Built without dependency on `script_component.hpp` or macros
 
 ---
 
